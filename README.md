@@ -1,4 +1,4 @@
-# redis mongoDB
+# Redis with mongoDB
 
 ## Installation
 npm i
